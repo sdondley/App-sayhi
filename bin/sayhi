@@ -1,0 +1,10 @@
+#!/usr/bin/perl
+# PODNAME: sayhi command blah blah
+use App::sayhi;
+
+App::sayhi->run;
+
+#=head1 NAME
+#
+#sayhi - Command line greetings to the world
+

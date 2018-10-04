@@ -1,0 +1,7 @@
+{{$NEXT}}
+
+0.001     2018-10-02 14:54:57 EDT
+   - Initial release
+   - Greet the world with they `sayhi` command
+   - See `sayhi -h` for available options
+
